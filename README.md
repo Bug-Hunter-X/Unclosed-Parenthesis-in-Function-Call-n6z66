@@ -1,0 +1,3 @@
+This repository demonstrates a common, yet often easily missed, error in Python: an unclosed parenthesis in a function call.  The error is subtle, often masked by the proximity of other code. The solution highlights the importance of careful code review and the use of a good IDE to detect such syntax errors.
+
+The `bug.py` file contains the buggy code, which raises a `SyntaxError`. The `bugSolution.py` file shows the corrected version.
